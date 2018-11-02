@@ -31,7 +31,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Cerys, Topic: DOMvs 'virtual DOM'
 4. Name: Topic
 
 
@@ -62,6 +62,6 @@
 * Misc
   * [x] Reduce (Higher Order Accumulation Function)
   * [ ] Purposeless conditions
-  * [ ] DOM vs 'virtual dom'
+  * [x] DOM vs 'virtual dom'
   * [ ] What is Functional Programming?
   * [ ] What is Object Oriented Programming?
