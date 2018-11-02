@@ -30,7 +30,7 @@
 ### Thursday
 
 1. Name: Topic
-2. Name: Topic
+2. Name: Ruby, Topic: Echo, Cat, Tail (Command Line)
 3. Name: Cerys, Topic: DOMvs 'virtual DOM'
 4. Name: Topic
 
@@ -57,7 +57,7 @@
   * [ ] sed, grep, ag
   * [ ] ln, ls
   * [ ] chmod, chown, chgrp
-  * [ ] echo, cat, tail
+  * [x] echo, cat, tail
 
 * Misc
   * [x] Reduce (Higher Order Accumulation Function)
