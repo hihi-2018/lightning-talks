@@ -23,7 +23,7 @@
 ### Wednesday
 
 1. Name: Topic
-2. Name: Topic
+2. Name: Ollie, Topic: Reduce
 3. Name: Topic
 4. Name: Topic
 
@@ -60,7 +60,7 @@
   * [ ] echo, cat, tail
 
 * Misc
-  * [ ] Reduce (Higher Order Accumulation Function)
+  * [x] Reduce (Higher Order Accumulation Function)
   * [ ] Purposeless conditions
   * [ ] DOM vs 'virtual dom'
   * [ ] What is Functional Programming?
