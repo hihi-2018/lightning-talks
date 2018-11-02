@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Kelly, Topic: Spread Operators
 4. Name: Topic
 
 
@@ -49,7 +49,7 @@
 * [ ] Template strings
 * [ ] Destructuring
 * [ ] Default parameters, Rest + Spread
-* [ ] Spread Operators
+* [x] Spread Operators
 
 ### Technical
 * [ ] NoSQL
