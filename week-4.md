@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Kelly, Topic:ES6 - Array.from(), Array.fill()
 4. Name: Topic
 
 
@@ -43,7 +43,7 @@
   * [ ] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
   * [ ] ES6 - destructuring
-  * [ ] ES6 - Array.from(), Array.fill()
+  * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
   * [ ] Babel & Transpiling, getting ES6 to work with browserify
