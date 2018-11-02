@@ -29,7 +29,7 @@
 
 ### Thursday
 
-1. Name: Topic
+1. Name: Sungmi, Topic: What is Functional Programming?
 2. Name: Ruby, Topic: Echo, Cat, Tail (Command Line)
 3. Name: Cerys, Topic: DOMvs 'virtual DOM'
 4. Name: Topic
@@ -63,5 +63,5 @@
   * [x] Reduce (Higher Order Accumulation Function)
   * [ ] Purposeless conditions
   * [x] DOM vs 'virtual dom'
-  * [ ] What is Functional Programming?
+  * [x] What is Functional Programming?
   * [ ] What is Object Oriented Programming?
