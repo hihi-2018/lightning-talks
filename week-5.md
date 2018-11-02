@@ -23,7 +23,7 @@
 ### Wednesday
 
 1. Name: Topic
-2. Name: Topic
+2. Name: Oliver, Topic: Ada Lovelace
 3. Name: Topic
 4. Name: Topic
 
@@ -38,7 +38,7 @@
 
 ### Biographical
 
-* [ ] Ada Lovelace
+* [x] Ada Lovelace
 * [ ] Roy Fielding
 * [ ] Audrey Tang
 * [ ] Alan Turing
