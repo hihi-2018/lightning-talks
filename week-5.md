@@ -22,7 +22,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Name: taz ,Topic: alan turing
 2. Name: Oliver, Topic: Ada Lovelace
 3. Name: Topic
 4. Name: Topic
@@ -41,7 +41,7 @@
 * [x] Ada Lovelace
 * [ ] Roy Fielding
 * [ ] Audrey Tang
-* [ ] Alan Turing
+* [x] Alan Turing
 * [ ] Steve Wozniak
 * [ ] Linus Torvalds
 
