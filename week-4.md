@@ -24,7 +24,7 @@
 
 1. Name: Topic
 2. Name: Ollie, Topic: Reduce
-3. Name: Topic
+3. Name: taz, topic babel
 4. Name: Topic
 
 ### Thursday
@@ -46,7 +46,7 @@
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
-  * [ ] Babel & Transpiling, getting ES6 to work with browserify
+  * [x] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
   * [ ] Task runner - gulp - Thursday morning Leslie
