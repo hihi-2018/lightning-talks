@@ -32,7 +32,7 @@
 1. Name: Sungmi, Topic: What is Functional Programming?
 2. Name: Ruby, Topic: Echo, Cat, Tail (Command Line)
 3. Name: Cerys, Topic: DOMvs 'virtual DOM'
-4. Name: Topic
+4. Name: Peter, Topic: Destructuring ES6
 
 
 ## Topics
@@ -42,7 +42,7 @@
   * [ ] ES6 - import, export
   * [ ] ES6 - fat arrow functions, function shorthands
   * [ ] ES6 - template strings
-  * [ ] ES6 - destructuring
+  * [x] ES6 - destructuring
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
   * [ ] ES6 - Map, Set
