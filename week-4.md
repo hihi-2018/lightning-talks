@@ -33,6 +33,7 @@
 2. Name: Ruby, Topic: Echo, Cat, Tail (Command Line)
 3. Name: Cerys, Topic: DOMvs 'virtual DOM'
 4. Name: Peter, Topic: Destructuring ES6
+5. Name: Joan, Topic: ES6 - Map, Set
 
 
 ## Topics
@@ -45,7 +46,7 @@
   * [x] ES6 - destructuring
   * [x] ES6 - Array.from(), Array.fill()
   * [ ] ES6 - Default parameters, Rest + Spread
-  * [ ] ES6 - Map, Set
+  * [x] ES6 - Map, Set
   * [x] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
