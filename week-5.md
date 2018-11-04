@@ -30,7 +30,7 @@
 ### Thursday
 
 1. Name: Joan,Topic: Misc-"What is the Turing Test? What does it mean to say that something is Turing Complete?"
-2. Name: Topic
+2. Name: Sungmi, Topic: What is currying? Why would we use it?
 3. {Name:  "Peter Torr Smith", Topic: "What are design patterns"}
 4. Name: Topic
 
@@ -55,7 +55,7 @@
 * [ ] NoSQL
 * [ ] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
-* [ ] What is currying? Why would we use it?
+* [x] What is currying? Why would we use it?
 * [ ] What are Typescript and Coffeescript? (Or just talk about one of them) leslie thursday morning
 
 ### Misc
