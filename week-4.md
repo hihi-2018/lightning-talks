@@ -15,7 +15,7 @@
 ### Tuesday
 
 1. Name: Topic
-2. Name: Topic
+2. Name: Bobbi, Topic: Task Runner - Grunt
 3. Name: Kelly, Topic:ES6 - Array.from(), Array.fill()
 4. Name: Topic
 
@@ -52,7 +52,7 @@
 
 * Task runners
   * [ ] Task runner - gulp - Thursday morning Leslie
-  * [ ] Task runner - grunt
+  * [x] Task runner - grunt
   * [ ] Task runner - webpack
 
 * Command line tools
