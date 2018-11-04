@@ -25,7 +25,8 @@
 1. Name: Topic
 2. Name: Ollie, Topic: Reduce
 3. Name: taz, topic babel
-4. Name: Topic
+4. Name: Brandon Topic: what is objecy orientated programing
+
 
 ### Thursday
 
@@ -65,4 +66,4 @@
   * [ ] Purposeless conditions
   * [x] DOM vs 'virtual dom'
   * [x] What is Functional Programming?
-  * [ ] What is Object Oriented Programming?
+  * [x] What is Object Oriented Programming?

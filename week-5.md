@@ -25,7 +25,7 @@
 1. Name: taz ,Topic: alan turing
 2. Name: Oliver, Topic: Ada Lovelace
 3. Name: Topic
-4. Name: Topic
+4. Name: Brandon: noSQL
 
 ### Thursday
 
@@ -52,7 +52,7 @@
 * [x] Spread Operators
 
 ### Technical
-* [ ] NoSQL
+* [x] NoSQL
 * [ ] What is CORS? Why is it important to understand? What is it for?
 * [ ] Sending data in headers vs. params vs. body
 * [x] What is currying? Why would we use it?
