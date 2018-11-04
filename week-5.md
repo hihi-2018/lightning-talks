@@ -24,7 +24,7 @@
 
 1. Name: taz ,Topic: alan turing
 2. Name: Oliver, Topic: Ada Lovelace
-3. Name: Topic
+3. Name: Ruby. Topic: What is Typescript?
 4. Name: Brandon: noSQL
 
 ### Thursday
