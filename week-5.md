@@ -15,7 +15,7 @@
 ### Tuesday
 
 1. Name: Topic
-2. Name: Topic
+2. Name: Bobbi, Topic: Steve Wozniak
 3. Name: Kelly, Topic: Spread Operators
 4. Name: Topic
 
@@ -42,7 +42,7 @@
 * [ ] Roy Fielding
 * [ ] Audrey Tang
 * [x] Alan Turing
-* [ ] Steve Wozniak
+* [x] Steve Wozniak
 * [ ] Linus Torvalds
 
 ### ES6
