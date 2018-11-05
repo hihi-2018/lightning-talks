@@ -17,7 +17,7 @@
 1. Name: Topic
 2. Name: Bobbi, Topic: Task Runner - Grunt
 3. Name: Kelly, Topic:ES6 - Array.from(), Array.fill()
-4. Name: Topic
+4. Name: James, chmod, chown, chgrp
 
 
 ### Wednesday
@@ -58,7 +58,7 @@
 * Command line tools
   * [ ] sed, grep, ag
   * [ ] ln, ls
-  * [ ] chmod, chown, chgrp
+  * [x] chmod, chown, chgrp
   * [x] echo, cat, tail
 
 * Misc
