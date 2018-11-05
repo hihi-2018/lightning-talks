@@ -17,7 +17,7 @@
 1. Name: Topic
 2. Name: Bobbi, Topic: Steve Wozniak
 3. Name: Kelly, Topic: Spread Operators
-4. Name: Topic
+4. Name: james, Topic: Roy Fielding
 
 
 ### Wednesday
@@ -39,7 +39,7 @@
 ### Biographical
 
 * [x] Ada Lovelace
-* [ ] Roy Fielding
+* [x] Roy Fielding
 * [ ] Audrey Tang
 * [x] Alan Turing
 * [x] Steve Wozniak
