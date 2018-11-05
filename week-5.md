@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Name: Cathy, Topic: Linus Torvalds
 2. Name: Bobbi, Topic: Steve Wozniak
 3. Name: Kelly, Topic: Spread Operators
 4. Name: james, Topic: Roy Fielding
@@ -43,7 +43,7 @@
 * [ ] Audrey Tang
 * [x] Alan Turing
 * [x] Steve Wozniak
-* [ ] Linus Torvalds
+* [x] Linus Torvalds
 
 ### ES6
 * [ ] Template strings

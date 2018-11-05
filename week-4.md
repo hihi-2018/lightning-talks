@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Name: Cathy, Topic: Task Runner - Gulp
 2. Name: Bobbi, Topic: Task Runner - Grunt
 3. Name: Kelly, Topic:ES6 - Array.from(), Array.fill()
 4. Name: James, chmod, chown, chgrp
@@ -51,7 +51,7 @@
   * [x] Babel & Transpiling, getting ES6 to work with browserify
 
 * Task runners
-  * [ ] Task runner - gulp - Thursday morning Leslie
+  * [x] Task runner - gulp
   * [x] Task runner - grunt
   * [ ] Task runner - webpack
 
