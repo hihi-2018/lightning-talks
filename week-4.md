@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Cathy, Topic: Task Runner - Gulp
+1. Name: 
 2. Name: Bobbi, Topic: Task Runner - Grunt
 3. Name: Kelly, Topic:ES6 - Array.from(), Array.fill()
 4. Name: James, chmod, chown, chgrp
@@ -22,7 +22,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Name: Cathy, Topic: Task Runner - Gulp
 2. Name: Ollie, Topic: Reduce
 3. Name: taz, topic babel
 4. Name: Brandon Topic: what is objecy orientated programing
