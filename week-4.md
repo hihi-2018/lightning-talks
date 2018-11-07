@@ -22,7 +22,7 @@
 
 ### Wednesday
 
-1. Name: Cathy, Topic: Task Runner - Gulp
+1. Name: 
 2. Name: Ollie, Topic: Reduce
 3. Name: taz, topic babel
 4. Name: Brandon Topic: what is objecy orientated programing
@@ -35,6 +35,7 @@
 3. Name: Cerys, Topic: DOMvs 'virtual DOM'
 4. Name: Peter, Topic: Destructuring ES6
 5. Name: Joan, Topic: ES6 - Map, Set
+6. Name: Cathy, Topic: Task Runner - Gulp (time permitting)
 
 
 ## Topics
